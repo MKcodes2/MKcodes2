@@ -6,8 +6,8 @@ This is **Mary Kate** (people also call me **MK**).
 
 ### 🌟 About me
 - 📍 Currently finishing my studies at [42 Heilbronn](https://www.42heilbronn.de/en/).
-- 🌱 Learning Web Development & UX/UI design. 
-- 🏆 Working on my own website. 
+- 🌱 Learning **Web Development** & **UX/UI design**. 
+- 🏆 My ultimate goal is to use Software to improve *Education* & *Health*.
 
 <!--
 **MaryKateEvan/MaryKateEvan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -33,8 +33,6 @@ Here are some ideas to get you started:
 ### 🛠️ Tools I use
 [![My Skills](https://skillicons.dev/icons?i=git,vscode,docker,figma,canva)](https://skillicons.dev)
 > Git, Vscode, Docker, Figma
----
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MaryKateEvan&show_icons=true&theme=radical)
 
 <!-- ALTERNATIVELY:
 
@@ -55,5 +53,8 @@ Here are some ideas to get you started:
 [![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white)](#)
 [![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&logo=Canva&logoColor=white)](#)
 [![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)](#)
-
 -->
+---
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MaryKateEvan&show_icons=true&theme=radical)
+
+🔍👇 **Checkout below my favorite projects:**  
