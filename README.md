@@ -5,7 +5,7 @@ This is **Mary Kate** (people also call me **MK**).
 |--------------------------|----------------------------------------|------------------------------------------|
 
 ### 🌟 About me
-- 📍 Currently finishing my studies at [42 Heilbronn](https://www.42heilbronn.de/en/).
+- 👩‍🎓 Graduate from the Coding School [42 Heilbronn](https://www.42heilbronn.de/en/).
 - 🌱 Learning **Web Development** & **UX/UI design**. 
 - 🏆 My ultimate goal is to use Software to improve *Education* & *Health*.
 
