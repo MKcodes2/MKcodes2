@@ -1,7 +1,7 @@
 
-<p align="center">
+<!-- <p align="center">
   <img src="./background_photo.png" alt="Mary Kate Evan Cover" width="100%" />
-</p>
+</p> -->
 
 ## 👋 Welcome to My GitHub Profile!
 This is **Mary Kate** (people also call me **MK**). 
@@ -9,13 +9,32 @@ This is **Mary Kate** (people also call me **MK**).
 | 👩‍💻 Junior Full-Stack Engineer  |  🎨 Passionate about Frontend & Design  |  🧬 Molecular Biology & Genetics Graduate |
 |--------------------------|----------------------------------------|------------------------------------------|
 
-
+<!-- 
 ### 🌟 About Me  
 
 - 👩‍🎓 Graduate from the Coding School [42 Heilbronn](https://www.42heilbronn.de/en/), having completed a full-time, project-based program in software engineering.
 - 🌱 Passionate about creating intuitive, visually engaging digital experiences that merge logic with creativity.  
 - 🔬 With a background in **Molecular Biology & Genetics** and a strong foundation in **C/C++**, I bring analytical precision to frontend design and full-stack development.  
 - 🎨 Currently deepening my skills in **TypeScript**, **Tailwind CSS**, and **React** to craft responsive and elegant web interfaces.  
+ -->
+
+### 🌟 About Me  
+
+<table>
+  <tr>
+    <td width="60%" valign="top">
+
+- 👩‍🎓 Graduate from the Coding School [42 Heilbronn](https://www.42heilbronn.de/en/), an 18-month full-time, project-based program in software engineering.  
+- 🌱 Passionate about creating intuitive, visually engaging digital experiences that merge logic with creativity.  
+- 🔬 With a background in **Molecular Biology & Genetics** and a strong foundation in **C/C++**, I bring analytical precision to frontend design and full-stack development.  
+- 🎨 Currently deepening my skills in **TypeScript**, **Tailwind CSS**, and **React** to craft responsive and elegant web interfaces.  
+
+    </td>
+    <td width="40%" align="center">
+      <img src="./background_photo.png" alt="Mary Kate Evan working illustration" width="100%" style="border-radius: 10px;" />
+    </td>
+  </tr>
+</table>
 
 
 ---
