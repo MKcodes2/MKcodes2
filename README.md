@@ -36,8 +36,6 @@ This is **Mary Kate** (people also call me **MK**).
   </tr>
 </table>
 
-
----
 ### 💻 Tech Stack  
 
 **Languages:**  
@@ -84,7 +82,6 @@ My favourite project is [**Transcendence**](https://github.com/MKcodes2/transcen
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](NOT_READY_YET)
 -->
 
----
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MKcodes2&show_icons=true&theme=radical)
 
 🔍👇 **Checkout below my favorite projects:**  
