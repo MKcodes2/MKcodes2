@@ -22,7 +22,7 @@ This is **Mary Kate** (people also call me **MK**).
 
 <table>
   <tr>
-    <td width="50%" valign="top">
+    <td width="60%" valign="top">
 
 - 👩‍🎓 Graduate from the Coding School [42 Heilbronn](https://www.42heilbronn.de/en/), having-completed a full-time, project-based program in software engineering.  
 - 🌱 Passionate about creating intuitive, visually engaging digital experiences that merge logic with creativity.  
@@ -30,8 +30,8 @@ This is **Mary Kate** (people also call me **MK**).
 - 🎨 Currently deepening my skills in **TypeScript**, **Tailwind CSS**, and **React** to craft responsive and elegant web interfaces.  
 
     </td>
-    <td width="50%" align="center">
-      <img src="./vertical_photo.png" alt="Mary Kate Evan working illustration" width="100%" style="border-radius: 10px;" />
+    <td width="40%" align="center">
+      <img src="./my_journey_photo.png" alt="my journey, working illustration" width="100%" style="border-radius: 10px;" />
     </td>
   </tr>
 </table>
@@ -81,7 +81,7 @@ My favourite project is [**Transcendence**](https://github.com/MKcodes2/transcen
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:marykate.evan@gmail.com) -->
 <!-- Uncomment when LinkedIn is ready:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_LINK)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](NOT_READY_YET)
 -->
 
 ---
