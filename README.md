@@ -1,60 +1,71 @@
+
+<p align="center">
+  <img src="./background_photo.png" alt="Mary Kate Evan Cover" width="100%" />
+</p>
+
+<!-- ### 👋 Hi, I’m Mary Kate Evan  
+**Junior Full-Stack Engineer (Frontend & Design Focus)**   -->
+
 ## 👋 Welcome to My GitHub Profile!
 This is **Mary Kate** (people also call me **MK**). 
 
-| 🧑‍💻 Software Developer  |  🔬 Passionate about Research & Education  |  🧬 Molecular Biology & Genetics Graduate |
+| 👩‍💻 Junior Full-Stack Engineer  |  🎨 Passionate about Frontend & Design  |  🧬 Molecular Biology & Genetics Graduate |
 |--------------------------|----------------------------------------|------------------------------------------|
 
 ### 🌟 About me
-- 👩‍🎓 Graduate from the Coding School [42 Heilbronn](https://www.42heilbronn.de/en/).
-- 🌱 Learning **Web Development** & **UX/UI design**. 
-- 🏆 My ultimate goal is to use Software to improve *Education* & *Health*.
 
-<!--
-**MaryKateEvan/MaryKateEvan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌱 I’m passionate about building intuitive, visually engaging digital experiences that merge logic with creativity.  
+🔬 With a background in **Molecular Biology & Genetics** and a strong foundation in **C/C++**, I bring analytical precision to frontend design and full-stack development.  
+🎨 Currently deepening my skills in **TypeScript**, **Tailwind CSS**, and **React** to craft responsive and elegant web interfaces.
 
-Here are some ideas to get you started:
+---
+### 💻 Tech Stack  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+**Languages:**  
+<p>
+  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+  <img alt="C" src="https://img.shields.io/badge/-C-555555?style=flat-square&logo=c&logoColor=white" />
+  <img alt="C++" src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
+  <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+
+</p>
+
+**Frameworks & Tools:**  
+<p>
+  <img alt="Tailwind CSS" src="https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat-square&logo=tailwindcss&logoColor=white" />
+  <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
+  <img alt="VS Code" src="https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" />
+</p>
+
+**Currently Learning:**  
+<p>
+  <img alt="React" src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+  <img alt="Angular" src="https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
+  <img alt="Figma" src="https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
+</p>
+
+<!-- #
+### 🚀 Favorite Project
+
+My favourite project is [**Transcendence**](https://github.com/MKcodes2/transcendence), _a multiplayer web-based Pong game in a 360° environment_, where I built the frontend with vanilla TypeScript & Tailwind CSS 
+> the project that made me fall in love with Frontend
+
+🔍 *Explore more pinned repositories below!* -->
+
+
+<!-- ### 🤝 Where to Find Me
+
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:marykate.evan@gmail.com) -->
+<!-- Uncomment when LinkedIn is ready:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_LINK)
 -->
 
 ---
-### 💻 Languages & Frameworks
-
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,js,html,css,python)](https://skillicons.dev)
-> C, C++, JavaScript, HTML, CSS, Python
----
-### 🛠️ Tools I use
-[![My Skills](https://skillicons.dev/icons?i=git,vscode,docker,figma,canva)](https://skillicons.dev)
-> Git, Vscode, Docker, Figma
-
-<!-- ALTERNATIVELY:
-
-[![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)](#)
-[![C++](https://img.shields.io/badge/-C++-blue?logo=cplusplus)](#)
-[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
-[![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=fff)](#)
-[![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)](#)
-[![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff)](#)
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#)
-[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)](#)
-[![TailwindCSS](https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white)](#)
-[![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white)](#)
-
-#### Tools I use
-
-[![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)](#)
-[![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white)](#)
-[![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&logo=Canva&logoColor=white)](#)
-[![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)](#)
--->
----
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MaryKateEvan&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MKcodes2&show_icons=true&theme=radical)
 
 🔍👇 **Checkout below my favorite projects:**  
