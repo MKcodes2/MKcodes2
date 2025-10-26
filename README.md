@@ -22,7 +22,7 @@ This is **Mary Kate** (people also call me **MK**).
 
 <table>
   <tr>
-    <td width="60%" valign="top">
+    <td width="50%" valign="top">
 
 - 👩‍🎓 Graduate from the Coding School [42 Heilbronn](https://www.42heilbronn.de/en/), having-completed a full-time, project-based program in software engineering.  
 - 🌱 Passionate about creating intuitive, visually engaging digital experiences that merge logic with creativity.  
@@ -30,7 +30,7 @@ This is **Mary Kate** (people also call me **MK**).
 - 🎨 Currently deepening my skills in **TypeScript**, **Tailwind CSS**, and **React** to craft responsive and elegant web interfaces.  
 
     </td>
-    <td width="40%" align="center">
+    <td width="50%" align="center">
       <img src="./vertical_photo.png" alt="Mary Kate Evan working illustration" width="100%" style="border-radius: 10px;" />
     </td>
   </tr>
