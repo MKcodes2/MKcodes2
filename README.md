@@ -6,7 +6,7 @@
 ## 👋 Welcome to My GitHub Profile!
 This is **Mary Kate** (people also call me **MK**). 
 
-| 👩‍💻 Junior Full-Stack Engineer  |  🎨 Passionate about Frontend & Design  |  🧬 Molecular Biology & Genetics Graduate |
+| 👩‍💻 Junior Software Engineer  |  🎨 Passionate about User Interfaces & Experience Design  |  🧬 Molecular Biology & Genetics Graduate |
 |--------------------------|----------------------------------------|------------------------------------------|
 
 <!-- 
@@ -27,7 +27,7 @@ This is **Mary Kate** (people also call me **MK**).
 - 👩‍🎓 Graduate from the Coding School [42 Heilbronn](https://www.42heilbronn.de/en/), having-completed a full-time, project-based program in software engineering.  
 - 🌱 Passionate about creating intuitive, visually engaging digital experiences that merge logic with creativity.  
 - 🔬 With a background in **Molecular Biology & Genetics** and a strong foundation in **C/C++**, I bring analytical precision to frontend design and full-stack development.  
-- 🎨 Currently deepening my skills in **TypeScript**, **Tailwind CSS**, and **React** to craft responsive and elegant web interfaces.  
+- 🎨 Currently deepening my skills in **TypeScript**, **Tailwind CSS**, and exploring **Swift / SwiftUI** to design seamless, user-focused interfaces.
 
     </td>
     <td width="40%" align="center">
@@ -60,10 +60,12 @@ This is **Mary Kate** (people also call me **MK**).
 
 **Currently Learning:**  
 <p>
+  <img alt="Swift / SwiftUI" src="https://img.shields.io/badge/-Swift_/_SwiftUI-F05138?style=flat-square&logo=swift&logoColor=white" />
   <img alt="React" src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black" />
   <img alt="Angular" src="https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
   <img alt="Figma" src="https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
 </p>
+
 
 <!-- #
 ### 🚀 Favorite Project
