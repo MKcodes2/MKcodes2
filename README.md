@@ -3,15 +3,16 @@
   <img src="./cover_photo.png" alt="Mary Kate Evan Cover" width="100%" />
 </p>
 
-<!-- | 👩‍💻 Junior Software Engineer  |   🧬 Molecular Biology & Genetics BSc  |  🎨 UX/UI & Human-Centered Design  |
-|--------------------------|----------------------------------------|------------------------------------------| -->
-<table width="100%">
+| &nbsp;👩‍💻 Junior Software Engineer &nbsp; |  &nbsp; 🧬 Molecular Biology & Genetics BSc &nbsp; | &nbsp; 🎨 UX/UI & Human-Centered Design &nbsp; |
+|--------------------------|----------------------------------------|------------------------------------------|
+
+<!-- <table width="100%">
   <tr>
     <td align="center">👩‍💻 <b>Junior Software Engineer</b></td>
     <td align="center">🧬 <b>Molecular Biology &amp; Genetics BSc</b></td>
     <td align="center">🎨 <b>UX/UI &amp; Human-Centered Design</b></td>
   </tr>
-</table>
+</table> -->
 
 
 ## 👋 Hi, I'm Mary Kate!
