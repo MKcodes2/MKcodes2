@@ -3,14 +3,22 @@
   <img src="./cover_photo.png" alt="Mary Kate Evan Cover" width="100%" />
 </p>
 
-| 👩‍💻 Junior Software Engineer  |   🧬 Molecular Biology & Genetics BSc  |  🎨 UX/UI & Human-Centered Design |
-|--------------------------|----------------------------------------|------------------------------------------|
+<!-- | 👩‍💻 Junior Software Engineer  |   🧬 Molecular Biology & Genetics BSc  |  🎨 UX/UI & Human-Centered Design  |
+|--------------------------|----------------------------------------|------------------------------------------| -->
+<table width="100%">
+  <tr>
+    <td align="center">👩‍💻 <b>Junior Software Engineer</b></td>
+    <td align="center">🧬 <b>Molecular Biology &amp; Genetics BSc</b></td>
+    <td align="center">🎨 <b>UX/UI &amp; Human-Centered Design</b></td>
+  </tr>
+</table>
+
 
 ## 👋 Hi, I'm Mary Kate!
 ... an interdisciplinary **STEM graduate** with a background in
 molecular biology, genetics, and software engineering.
 
-
+#
 ### 🌟 About Me  
 
 - 💻 Software engineering training at [42 Heilbronn](https://www.42heilbronn.de/en/), focused on **C/C++** and Git, with exposure to **web development** and **UX/UI design** through my final, most favourite, project (_"PongJam", check it out below_ ⬇️)
