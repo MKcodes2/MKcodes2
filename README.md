@@ -1,13 +1,29 @@
 
-<!-- <p align="center">
-  <img src="./background_photo.png" alt="Mary Kate Evan Cover" width="100%" />
-</p> -->
+<p align="center">
+  <img src="./cover_photo.png" alt="Mary Kate Evan Cover" width="100%" />
+</p>
 
-## 👋 Welcome to My GitHub Profile!
-This is **Mary Kate** (people also call me **MK**). 
+#
 
-| 👩‍💻 Junior Software Engineer  |  🎨 Passionate about User Interfaces & Experience Design  |  🧬 Molecular Biology & Genetics Graduate |
+## 👋 Hi, I'm Mary Kate!
+... an interdisciplinary **STEM graduate** with a background in
+molecular biology, genetics, and software engineering.
+
+| 👩‍💻 Junior Software Engineer  |   🧬 Molecular Biology & Genetics BSc  |  🎨 UX/UI & Human-Centered Design |
 |--------------------------|----------------------------------------|------------------------------------------|
+
+### 🌟 About Me  
+
+- 💻 Software engineering training at [42 Heilbronn](https://www.42heilbronn.de/en/), focused on **C/C++** and Git, with exposure to **web development** and **UX/UI design** through my final, most favourite, project (_"PongJam", check it out below_ ⬇️)
+
+- 🔬 BSc in **Molecular Biology & Genetics** with hands-on wet-lab experience
+(PCR/qPCR, DNA/RNA extraction, cloning, mammalian cell culture).
+
+- 🧠 Interested in building clear, well-structured systems –whether in code,
+interfaces, or scientific workflows.
+
+- 🌱 Currently expanding my skills in **Python**, bioinformatics concepts,
+and user-centered design.
 
 <!-- 
 ### 🌟 About Me  
@@ -18,7 +34,7 @@ This is **Mary Kate** (people also call me **MK**).
 - 🎨 Currently deepening my skills in **TypeScript**, **Tailwind CSS**, and **React** to craft responsive and elegant web interfaces.  
  -->
 
-### 🌟 About Me  
+<!-- ### 🌟 About Me  
 
 <table>
   <tr>
@@ -34,19 +50,19 @@ This is **Mary Kate** (people also call me **MK**).
       <img src="./my_journey_photo.png" alt="my journey, working illustration" width="100%" style="border-radius: 10px;" />
     </td>
   </tr>
-</table>
-
+</table> -->
+#
 ### 💻 Tech Stack  
 
 **Languages:**  
 <p>
-  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
-  <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-  <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
   <img alt="C" src="https://img.shields.io/badge/-C-555555?style=flat-square&logo=c&logoColor=white" />
   <img alt="C++" src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
   <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
+  <!-- <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" /> -->
 
 </p>
 
@@ -60,10 +76,10 @@ This is **Mary Kate** (people also call me **MK**).
 
 **Currently Learning:**  
 <p>
-  <img alt="Swift / SwiftUI" src="https://img.shields.io/badge/-Swift_/_SwiftUI-F05138?style=flat-square&logo=swift&logoColor=white" />
   <img alt="React" src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-  <img alt="Angular" src="https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
   <img alt="Figma" src="https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
+  <!-- <img alt="Swift / SwiftUI" src="https://img.shields.io/badge/-Swift_/_SwiftUI-F05138?style=flat-square&logo=swift&logoColor=white" /> -->
+  <!-- <img alt="Angular" src="https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white" /> -->
 </p>
 
 
@@ -75,14 +91,13 @@ My favourite project is [**Transcendence**](https://github.com/MKcodes2/transcen
 
 🔍 *Explore more pinned repositories below!* -->
 
+#
+### 🤝 Where to Find Me
 
-<!-- ### 🤝 Where to Find Me
+<!-- [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME) -->
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:marykate.evan@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mary-kate-evangelidou-881518393)
 
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:marykate.evan@gmail.com) -->
-<!-- Uncomment when LinkedIn is ready:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](NOT_READY_YET)
--->
 <!--
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MKcodes2&show_icons=true&theme=radical)
 -->
