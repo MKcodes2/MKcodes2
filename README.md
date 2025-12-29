@@ -30,8 +30,7 @@ molecular biology, genetics, and software engineering.
 - 🧠 Interested in building clear, well-structured systems –whether in code,
 interfaces, or scientific workflows.
 
-- 🌱 Currently expanding my skills in **Python**, bioinformatics concepts,
-and user-centered design.
+- 🌱 Currently expanding my skills in **Python**, bioinformatics concepts and **Web development & design**.
 
 <!-- 
 ### 🌟 About Me  
