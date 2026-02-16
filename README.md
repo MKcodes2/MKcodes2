@@ -16,48 +16,19 @@
 
 
 ## 👋 Hi, I'm Mary Kate!
-... an interdisciplinary **STEM graduate** with a background in
-molecular biology, genetics, and software engineering.
+... an interdisciplinary **STEM graduate** who bridges science, software, and human-centered design.
 
 #
 ### 🌟 About Me  
 
-- 💻 Software engineering training at [42 Heilbronn](https://www.42heilbronn.de/en/), focused on **C/C++** and Git, with exposure to **web development** and **UX/UI design** through my final, most favourite, project (_"PongJam", check it out below_ ⬇️)
+- 💻 Software engineering training at [42 Heilbronn](https://www.42heilbronn.de/en/), focused on **C/C++**, networking fundamentals, and Git, with exposure to **web development** and **UX/UI design** through my final, most favourite, project (_"PongJam", check it out below_ ⬇️)
 
-- 🔬 BSc in **Molecular Biology & Genetics** with hands-on wet-lab experience
-(PCR/qPCR, DNA/RNA extraction, cloning, mammalian cell culture).
+- 🔬 BSc in **Molecular Biology & Genetics** with hands-on wet-lab experience (PCR/qPCR, DNA/RNA extraction, cloning, mammalian cell culture)
 
-- 🧠 Interested in building clear, well-structured systems –whether in code,
-interfaces, or scientific workflows.
+- 🧠 Interested in building clear, well-structured systems –whether in code, interfaces, or real-world workflows involving data and tools
 
-- 🌱 Currently expanding my skills in **Python**, bioinformatics concepts and **Web development & design**.
+- 🌱 Currently expanding my skills in **Python**, automation, and modern full-stack development
 
-<!-- 
-### 🌟 About Me  
-
-- 👩‍🎓 Graduate from the Coding School [42 Heilbronn](https://www.42heilbronn.de/en/), having completed a full-time, project-based program in software engineering.
-- 🌱 Passionate about creating intuitive, visually engaging digital experiences that merge logic with creativity.  
-- 🔬 With a background in **Molecular Biology & Genetics** and a strong foundation in **C/C++**, I bring analytical precision to frontend design and full-stack development.  
-- 🎨 Currently deepening my skills in **TypeScript**, **Tailwind CSS**, and **React** to craft responsive and elegant web interfaces.  
- -->
-
-<!-- ### 🌟 About Me  
-
-<table>
-  <tr>
-    <td width="60%" valign="top">
-
-- 👩‍🎓 Graduate from the Coding School [42 Heilbronn](https://www.42heilbronn.de/en/), having-completed a full-time, project-based program in software engineering.  
-- 🌱 Passionate about creating intuitive, visually engaging digital experiences that merge logic with creativity.  
-- 🔬 With a background in **Molecular Biology & Genetics** and a strong foundation in **C/C++**, I bring analytical precision to frontend design and full-stack development.  
-- 🎨 Currently deepening my skills in **TypeScript**, **Tailwind CSS**, and exploring **Swift / SwiftUI** to design seamless, user-focused interfaces.
-
-    </td>
-    <td width="40%" align="center">
-      <img src="./my_journey_photo.png" alt="my journey, working illustration" width="100%" style="border-radius: 10px;" />
-    </td>
-  </tr>
-</table> -->
 #
 ### 💻 Tech Stack  
 
@@ -82,21 +53,19 @@ interfaces, or scientific workflows.
 </p>
 
 **Currently Learning:**  
-<p>
+<!-- <p>
   <img alt="React" src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black" />
   <img alt="Figma" src="https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
   <!-- <img alt="Swift / SwiftUI" src="https://img.shields.io/badge/-Swift_/_SwiftUI-F05138?style=flat-square&logo=swift&logoColor=white" /> -->
   <!-- <img alt="Angular" src="https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white" /> -->
+<!-- </p> --> 
+<p>
+  <img alt="React" src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+  <img alt="Figma" src="https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
+  <img alt="Postman" src="https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
+  <img alt="SQL" src="https://img.shields.io/badge/-SQL-336791?style=flat-square&logo=postgresql&logoColor=white" />
 </p>
 
-
-<!-- #
-### 🚀 Favorite Project
-
-My favourite project is [**Transcendence**](https://github.com/MKcodes2/transcendence), _a multiplayer web-based Pong game in a 360° environment_, where I built the frontend with vanilla TypeScript & Tailwind CSS 
-> the project that made me fall in love with Frontend
-
-🔍 *Explore more pinned repositories below!* -->
 
 #
 ### 🤝 Where to Find Me
