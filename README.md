@@ -3,31 +3,34 @@
   <img src="./cover_photo.png" alt="Mary Kate Evan Cover" width="100%" />
 </p>
 
-| &nbsp;👩‍💻 Junior Software Engineer &nbsp; |  &nbsp; 🧬 Molecular Biology & Genetics BSc &nbsp; | &nbsp; 🎨 UX/UI & Human-Centered Design &nbsp; |
+| &nbsp;👩‍💻 Junior Software Engineer &nbsp; | &nbsp; 🎨 UX/UI & Human-Centered Design &nbsp; |  &nbsp; 🧬 Molecular Biology & Genetics BSc &nbsp; |
 |--------------------------|----------------------------------------|------------------------------------------|
 
 <!-- <table width="100%">
   <tr>
     <td align="center">👩‍💻 <b>Junior Software Engineer</b></td>
-    <td align="center">🧬 <b>Molecular Biology &amp; Genetics BSc</b></td>
     <td align="center">🎨 <b>UX/UI &amp; Human-Centered Design</b></td>
+    <td align="center">🧬 <b>Molecular Biology &amp; Genetics BSc</b></td>
   </tr>
 </table> -->
 
 
 ## 👋 Hi, I'm Mary Kate!
-... an interdisciplinary **STEM graduate** who bridges science, software, and human-centered design.
+... a junior software engineer who enjoys **designing** and **building digital products**.
 
 #
 ### 🌟 About Me  
 
-- 💻 Software engineering training at [42 Heilbronn](https://www.42heilbronn.de/en/), focused on **C/C++**, networking fundamentals, and Git, with exposure to **web development** and **UX/UI design** through my final, most favourite, project (_"PongJam", check it out below_ ⬇️)
+- 💻 Trained at [42 Heilbronn](https://www.42heilbronn.de/en/), with a strong focus on C/C++, computer science fundamentals, and collaborative development with Git
 
-- 🔬 BSc in **Molecular Biology & Genetics** with hands-on wet-lab experience (PCR/qPCR, DNA/RNA extraction, cloning, mammalian cell culture)
+- 🎨 Discovered my **interest in UI** and **frontend development** through my final, most favorite, project, where I designed and implemented the interface of a web platform using _TypeScript_ and _Tailwind CSS_
+→ from a basic layout to a structured, user-focused experience ("PongJam" below ⬇️)
 
-- 🧠 Interested in building clear, well-structured systems –whether in code, interfaces, or real-world workflows involving data and tools
+- 🧠 I enjoy working at the **intersection of design and development** — shaping how a product _looks, feels, and behaves_, and then bringing it to life in code
 
-- 🌱 Currently expanding my skills in **Python**, automation, and modern full-stack development
+- 🔬 Background in Molecular Biology & Genetics, which shaped my analytical thinking, attention to detail, and structured approach to problem solving
+
+- 🌱 Currently expanding my skills in _modern frontend development_ (TypeScript, React, UI patterns) and exploring _UX principles_ and _mobile development_
 
 #
 ### 💻 Tech Stack  
@@ -62,8 +65,8 @@
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black" />
   <img alt="Figma" src="https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
-  <img alt="Postman" src="https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
-  <img alt="SQL" src="https://img.shields.io/badge/-SQL-336791?style=flat-square&logo=postgresql&logoColor=white" />
+  <!-- <img alt="Postman" src="https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
+  <img alt="SQL" src="https://img.shields.io/badge/-SQL-336791?style=flat-square&logo=postgresql&logoColor=white" /> -->
 </p>
 
 
