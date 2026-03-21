@@ -28,7 +28,7 @@
 
 - 🧠 I enjoy working at the **intersection of design and development** — shaping how a product _looks, feels, and behaves_, and then bringing it to life in code
 
-- 🔬 Background in Molecular Biology & Genetics, which shaped my analytical thinking, attention to detail, and structured approach to problem solving
+- 🔬 Background in **Molecular Biology, Genetics & Behavioural Neuroscience** — giving me a _science-rooted perspective on user behaviour_: why motion draws attention, why simplicity creates trust, how cognitive load affects decisions. A lens I find genuinely useful when thinking about UX.
 
 - 🌱 Currently expanding my skills in _modern frontend development_ (TypeScript, React, UI patterns) and exploring _UX principles_ and _mobile development_
 
