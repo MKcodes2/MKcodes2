@@ -24,7 +24,7 @@
 - 💻 Trained at [42 Heilbronn](https://www.42heilbronn.de/en/), with a strong focus on C/C++, computer science fundamentals, and collaborative development with Git
 
 - 🎨 Discovered my **interest in UI/UX** and **frontend development** through my final, most favorite, project, where I designed and implemented the interface of a web platform using _TypeScript_ and _Tailwind CSS_
-→ from a basic layout to a structured, user-focused experience ("PongJam" below ⬇️)
+→ from a basic, default layout to a structured, user-focused experience (see "PongJam" below ⬇️)
 
 - 🧠 I enjoy working at the **intersection of design and development** — shaping how a product _looks, feels, and behaves_, and then bringing it to life in code
 
