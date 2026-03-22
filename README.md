@@ -3,7 +3,7 @@
   <img src="./cover_photo.png" alt="Mary Kate Evan Cover" width="100%" />
 </p>
 
-| &nbsp;👩‍💻 Junior Software Engineer &nbsp; | &nbsp; 🎨 UX/UI & Human-Centered Design &nbsp; |  &nbsp; 🧬 Molecular Biology & Genetics BSc &nbsp; |
+| &nbsp;👩‍💻 Graduate Software Engineer &nbsp; | &nbsp; 🎨 UX/UI & Human-Centered Design &nbsp; |  &nbsp; 🧬 Molecular Biology & Genetics BSc &nbsp; |
 |--------------------------|----------------------------------------|------------------------------------------|
 
 <!-- <table width="100%">
@@ -16,7 +16,7 @@
 
 
 ## 👋 Hi, I'm Mary Kate!
-... a junior software engineer who enjoys **designing** and **building digital products**.
+... a software engineering graduate who enjoys **designing** and **building digital products**.
 
 #
 ### 🌟 About Me  
