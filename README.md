@@ -3,7 +3,7 @@
   <img src="./cover_photo.png" alt="Mary Kate Evan Cover" width="100%" />
 </p>
 
-| 👩‍💻 Graduate Software Engineer &nbsp; | &nbsp; 🎨 UX/UI & Human-Centered Design &nbsp; |  &nbsp; 🧬 Molecular Biology & Genetics BSc |
+| 👩‍💻 Graduate Software Engineer &nbsp; | &nbsp; 🎨 UX/UI & Product Thinking &nbsp; |  &nbsp; 🧬 Molecular Biology & Genetics BSc |
 |--------------------------|----------------------------------------|------------------------------------------|
 
 <!-- <table width="100%">
@@ -30,7 +30,7 @@
 
 - 🔬 Background in **Molecular Biology, Genetics & Behavioural Neuroscience** — giving me a _science-rooted perspective on user behaviour_: why motion draws attention, why simplicity creates trust, how cognitive load affects decisions. A lens I find genuinely useful when thinking about UX.
 
-- 🌱 Currently expanding my skills in _modern frontend development_ (TypeScript, React, UI patterns) and exploring _UX principles_ and _mobile development_
+- 🌱 Currently expanding my skills in _modern frontend development_ (TypeScript, React, UI patterns) and _product thinking_ — understanding not just how to build experiences, but what to build and why...
 
 #
 ### 💻 Tech Stack  
