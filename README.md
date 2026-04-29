@@ -16,7 +16,7 @@
 
 
 ## 👋 Hi, I'm Mary Kate!
-... a software engineering graduate who enjoys **designing** and **building digital products**.
+... a software engineering graduate who enjoys **designing, building, and thinking about digital products**.
 
 #
 ### 🌟 About Me  
