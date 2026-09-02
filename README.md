@@ -26,9 +26,9 @@
 - 🎨 Discovered my **interest in UI/UX** and **frontend development** through my final, most favorite, project, where I designed and implemented the interface of a web platform using _TypeScript_ and _Tailwind CSS_
 → from a basic, default layout to a structured, user-focused experience (see "PongJam" below ⬇️)
 
-- 🧠 I enjoy working at the **intersection of design and development** — shaping how a product _looks, feels, and behaves_, and then bringing it to life in code
+- 🧠 I enjoy working at the **intersection of design and development**—shaping how a product _looks, feels, and behaves_, and then bringing it to life in code
 
-- 🔬 Background in **Molecular Biology, Genetics & Behavioural Neuroscience** — giving me a _science-rooted perspective on user behaviour_: why motion draws attention, why simplicity creates trust, how cognitive load affects decisions. A lens I find genuinely useful when thinking about UX.
+- 🔬 Background in **Molecular Biology, Genetics & Behavioural Neuroscience**—giving me a _science-rooted perspective on user behaviour_: why motion draws attention, why simplicity creates trust, how cognitive load affects decisions. A lens I find genuinely useful when thinking about UX.
 
 - 🌱 Currently expanding into _Vue.js_, _React_, and _Figma_—with a particular focus on component-driven development and design systems.
 <!--Currently expanding my skills in _modern frontend development_ (TypeScript, React, UI patterns) and _product thinking_ — understanding not just how to build experiences, but what to build and why...  --> 
