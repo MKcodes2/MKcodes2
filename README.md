@@ -13,7 +13,7 @@ A molecular biologist and software developer, but above all a **curious mind**. 
 #
 ### 🧬 Molecular Biology
 
-- 🎓 **BSc Molecular Biology &amp; Genetics** (DUTH), with a year of thesis research at **BRFAA** on gene regulation in breast cancer cells
+- 🎓 **BSc Molecular Biology &amp; Genetics** (DUTH), with a year of thesis research at **BRFAA** on gene regulation in breast cancer cells, and two years of training in **DNA cloning**
 - 🧠 Drawn to **molecular neuroscience, developmental and behavioural biology**. More on my lab work in the [portfolio](https://mkcodes2.github.io/#/biology)
 
 #
